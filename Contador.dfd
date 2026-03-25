@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+contador
+1
+0
+10
+acumulador
+1
+0
+6
+ventas
+1
+0
+6
+1
+9
+continuar
+1
+0
+4
+1
+34
+'Realicemos la suma de tus ventas'
+9
+1
+11
+continuar=0
+4
+1
+30
+'Ingrese el valor de la venta'
+5
+1
+6
+ventas
+6
+2
+8
+contador
+10
+contador+1
+10
+acumulador
+17
+acumulador+ventas
+4
+1
+34
+contador ,' llevas $ ', acumulador
+4
+1
+51
+'Marque 0 para continuar o marque 1 para finalizar'
+5
+1
+9
+continuar
+11
+4
+1
+74
+'El total de tus ventas ha sido $', acumulador ,' en ', contador ,' dias.'
+1
